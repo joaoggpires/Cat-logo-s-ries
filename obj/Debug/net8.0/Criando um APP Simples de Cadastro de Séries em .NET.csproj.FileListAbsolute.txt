@@ -1,0 +1,14 @@
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.AssemblyInfoInputs.cache
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.AssemblyInfo.cs
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\bin\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.exe
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\bin\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.deps.json
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\bin\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.runtimeconfig.json
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\bin\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.dll
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\bin\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.pdb
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.dll
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\refint\Criando um APP Simples de Cadastro de Séries em .NET.dll
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.pdb
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\Criando um APP Simples de Cadastro de Séries em .NET.genruntimeconfig.cache
+C:\Users\joaog\Desktop\Criando um APP Simples de Cadastro de Séries em .NET\obj\Debug\net8.0\ref\Criando um APP Simples de Cadastro de Séries em .NET.dll
